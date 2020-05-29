@@ -1,6 +1,7 @@
 # Sentiment-Analysis-Twitter-in-R
 Twitter Sentiment Analysis project in R
 Takes feeds from Twitter into R. The sentiment of the tweets is analysed and classified into positive, negative and neutral tweets.
+
 Pre-requisites
 Installation of R (Version 3.3.1)
 Twitter Authentication to access API
@@ -16,6 +17,7 @@ RJSONIO
 wordcloud
 gridExtra
 plyr
+
 Steps for Execution
 Short Version -
 The codes are compiled into one file script_running.R.
